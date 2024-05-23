@@ -1,7 +1,8 @@
-Esse é um arquivo hello de exemplo alterado
+Esse é um arquivo hello de exemplo alterado na branch message!
 
 
 alteracao 1
 alteracao 2
 alteracao 3
 alteracao 4
+alteracao 6
